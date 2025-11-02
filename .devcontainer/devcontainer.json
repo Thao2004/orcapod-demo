@@ -21,6 +21,11 @@
 		"--cgroupns=host"
 	],
 	"customizations": {
+		"codespaces": {
+			"openFiles": [
+				"notebooks/01 - add_tree.ipynb"
+			]
+		},
 		"vscode": {
 			"extensions": [
 				"tamasfe.even-better-toml", // *.toml language support
